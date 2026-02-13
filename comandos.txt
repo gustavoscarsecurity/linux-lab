@@ -14,7 +14,8 @@ touch - cria um arquivo
 mkdir - cria diretório 
 cp - copia
 mv - move/renomeia
-rm - remove um arquivo 
+rm - remove um arquivo
+nano - edita um arquivo  
 
 == Visualização do Arquivo ==
 cat - exibe o conteúdo do arquivo
