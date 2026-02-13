@@ -1,0 +1,33 @@
+                                                  COMANDOS LINUX
+
+ == NAVEGAÇÃO ==
+pwd - mostra o diretório atual
+cd - muda de diretório 
+cd ~ - vai direto pra home
+cd .. - volta um nivel
+cd / - te leva para a raiz do sistema
+ls - lista os arquivos do diretório
+ls -l - lista os arquivos do diretório com maior detalhes.
+
+ == MANIPULAÇÃO DE ARQUIVOS ==
+touch - cria um arquivo 
+mkdir - cria diretório 
+cp - copia
+mv - move/renomeia
+rm - remove um arquivo 
+
+== Visualização do Arquivo ==
+cat - exibe o conteúdo do arquivo
+less - visualiza arquivo paginado
+
+== Permissões == 
+chmod - altera permissões
+
+== Redirecionamento ==
+> - sobrescreve um arquivo
+>> - adiciona ao final do arquivo
+| - envia a saída de um comando para o outro
+ 
+== Filtragem de Informações ==
+Grep - procura palavras-chave ou padrões dentro de arquivos ou saídas de comandos
+
